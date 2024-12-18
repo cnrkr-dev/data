@@ -9,7 +9,7 @@
 </thead>
 <tbody>
 <tr>
-<td><a href="https://github.com/dataprofessor/data/blob/master/iris.csv">iris</a></td>
+<td><a href="https://github.com/cnrkr-dev/data/blob/master/iris.csv">iris</a></td>
 <td>150 flowers (rows) belonging to the 3 species (<em>setosa</em>is , <em>versicolor</em> and <em>virginica</em>) of the <em>Iris</em> genus. The dataset consists of 4 input variables (sepal length, sepal width, petal length and petal width) and 1 output variable (the class label of the Iris species as being <em>setosa</em>is , <em>versicolor</em> and <em>virginica</em>.</td>
 <td><a href="https://archive.ics.uci.edu/ml/datasets/iris" rel="nofollow">1</a></td>
 </tr>
